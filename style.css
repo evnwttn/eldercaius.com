@@ -1,0 +1,35 @@
+nav > * {
+  text-align: "center";
+}
+
+ul {
+  list-style-type: none;
+}
+
+.training-wheels {
+  max-width: 50%;
+}
+
+.lilimg {
+  height: 12em;
+  width: 12em;
+}
+
+.listen > a > h1 {
+  text-align: center;
+  background-color: aqua;
+}
+
+.listen iframe {
+  display: block;
+  margin: 0 auto 20px;
+  width: 100%;
+  max-width: 560px;
+}
+
+@media (max-width: 768px) {
+  .listen iframe {
+    width: 100%;
+    height: auto;
+  }
+}
