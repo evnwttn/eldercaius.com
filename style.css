@@ -6,8 +6,9 @@ ul {
   list-style-type: none;
 }
 
-.training-wheels {
-  max-width: 50%;
+.imgtoobig {
+  max-width: 75%;
+  height: auto
 }
 
 .lilimg {
