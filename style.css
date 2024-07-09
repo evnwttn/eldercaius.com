@@ -11,26 +11,20 @@ ul {
   height: auto
 }
 
+.imglilbigger {
+  max-width: 100%;
+  height: auto;
+}
+
 .lilimg {
   height: 12em;
   width: 12em;
 }
 
-.listen > a > h1 {
-  text-align: center;
-  background-color: aqua;
+.history {
+  color: rebeccapurple;
 }
 
-.listen iframe {
-  display: block;
-  margin: 0 auto 20px;
-  width: 100%;
-  max-width: 560px;
-}
-
-@media (max-width: 768px) {
-  .listen iframe {
-    width: 100%;
-    height: auto;
-  }
+.topbuffer {
+  margin-top: 1em;
 }
