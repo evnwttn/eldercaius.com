@@ -6,21 +6,21 @@ ul {
   list-style-type: none;
 }
 
-.img-lil-bigger {
+.imglilbigger {
   max-width: 100%;
   height: auto;
 }
 
-.lil-img {
+.lilimg {
   height: 12em;
   width: 12em;
 }
 
-.top-buffer {
+.topbuffer {
   margin-top: 1em;
 }
 
-.inline-flex {
+.inlineflex {
   display: inline-flex;
   align-items: center;
 }
