@@ -21,6 +21,18 @@ ul {
   align-items: center;
 }
 
+@media (max-width: 768px) {
+  .inlineflex {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+}
+
+.biglinx {
+  text-align: center;
+}
+
 .biglinx a {
   color: orangered;
 }
